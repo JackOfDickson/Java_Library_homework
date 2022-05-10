@@ -11,4 +11,12 @@ public class Borrower {
     public int collectionCount(){
         return collection.size();
     }
+
+    public void addBook(Book book){
+        collection.add(book);
+    }
+
+    public void borrowBook(Library library, Book book){
+
+    }
 }
