@@ -20,4 +20,8 @@ public class Library {
         }
     }
 
+    public void removeBook(int index){
+//        stock[index]
+    }
+
 }

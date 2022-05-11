@@ -16,7 +16,9 @@ public class Borrower {
         collection.add(book);
     }
 
-    public void borrowBook(Library library, Book book){
-
-    }
+//    public void borrowBook(Library library, Book book){
+//        for (int i=0; i < collectionCount(); i++){
+//            if library.stock[i] === book;}
+//        }
+//    }
 }
